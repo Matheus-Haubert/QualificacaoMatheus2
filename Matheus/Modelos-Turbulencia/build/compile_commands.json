@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/matheus/Matheus/Modelos-Turbulencia/build",
+  "command": "/usr/bin/c++ -D__INSDIR__=\"\" -I/home/matheus/Matheus/Modelos-Turbulencia/include -I/home/matheus/petsc/petsc-3.18.3/include -I/home/matheus/petsc/petsc-3.18.3/arch-linux2-c-opt/include -I/home/matheus/mpich-install/include -I/usr/include/hdf5/serial -I/usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5.so -I/usr/lib/x86_64-linux-gnu/libcrypto.so -I/usr/lib/x86_64-linux-gnu/libcurl.so -I/usr/lib/x86_64-linux-gnu/libpthread.a -I/usr/lib/x86_64-linux-gnu/libsz.so -I/usr/lib/x86_64-linux-gnu/libz.so -I/usr/lib/x86_64-linux-gnu/libdl.a -I/usr/lib/x86_64-linux-gnu/libm.so -I/home/matheus/Matheus/Modelos-Turbulencia/functs -I/home/matheus/Matheus/Modelos-Turbulencia/inputs -isystem /usr/local/include/eigen3 -O3 -DNDEBUG   -w -o CMakeFiles/Fluid_library.dir/functs/F_Calculate.cpp.o -c /home/matheus/Matheus/Modelos-Turbulencia/functs/F_Calculate.cpp",
+  "file": "/home/matheus/Matheus/Modelos-Turbulencia/functs/F_Calculate.cpp"
+},
+{
+  "directory": "/home/matheus/Matheus/Modelos-Turbulencia/build",
+  "command": "/usr/bin/c++ -D__INSDIR__=\"\" -I/home/matheus/Matheus/Modelos-Turbulencia/include -I/home/matheus/petsc/petsc-3.18.3/include -I/home/matheus/petsc/petsc-3.18.3/arch-linux2-c-opt/include -I/home/matheus/mpich-install/include -I/usr/include/hdf5/serial -I/usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5.so -I/usr/lib/x86_64-linux-gnu/libcrypto.so -I/usr/lib/x86_64-linux-gnu/libcurl.so -I/usr/lib/x86_64-linux-gnu/libpthread.a -I/usr/lib/x86_64-linux-gnu/libsz.so -I/usr/lib/x86_64-linux-gnu/libz.so -I/usr/lib/x86_64-linux-gnu/libdl.a -I/usr/lib/x86_64-linux-gnu/libm.so -I/home/matheus/Matheus/Modelos-Turbulencia/functs -I/home/matheus/Matheus/Modelos-Turbulencia/inputs -isystem /usr/local/include/eigen3 -O3 -DNDEBUG   -w -o CMakeFiles/Fluid_library.dir/functs/F_Gmsh.cpp.o -c /home/matheus/Matheus/Modelos-Turbulencia/functs/F_Gmsh.cpp",
+  "file": "/home/matheus/Matheus/Modelos-Turbulencia/functs/F_Gmsh.cpp"
+},
+{
+  "directory": "/home/matheus/Matheus/Modelos-Turbulencia/build",
+  "command": "/usr/bin/c++ -D__INSDIR__=\"\" -I/home/matheus/Matheus/Modelos-Turbulencia/include -I/home/matheus/petsc/petsc-3.18.3/include -I/home/matheus/petsc/petsc-3.18.3/arch-linux2-c-opt/include -I/home/matheus/mpich-install/include -I/usr/include/hdf5/serial -I/usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5.so -I/usr/lib/x86_64-linux-gnu/libcrypto.so -I/usr/lib/x86_64-linux-gnu/libcurl.so -I/usr/lib/x86_64-linux-gnu/libpthread.a -I/usr/lib/x86_64-linux-gnu/libsz.so -I/usr/lib/x86_64-linux-gnu/libz.so -I/usr/lib/x86_64-linux-gnu/libdl.a -I/usr/lib/x86_64-linux-gnu/libm.so -I/home/matheus/Matheus/Modelos-Turbulencia/functs -I/home/matheus/Matheus/Modelos-Turbulencia/inputs -isystem /usr/local/include/eigen3 -O3 -DNDEBUG   -w -o CMakeFiles/Fluid_library.dir/functs/F_PETSc.cpp.o -c /home/matheus/Matheus/Modelos-Turbulencia/functs/F_PETSc.cpp",
+  "file": "/home/matheus/Matheus/Modelos-Turbulencia/functs/F_PETSc.cpp"
+},
+{
+  "directory": "/home/matheus/Matheus/Modelos-Turbulencia/build",
+  "command": "/usr/bin/c++ -D__INSDIR__=\"\" -I/home/matheus/Matheus/Modelos-Turbulencia/include -I/home/matheus/petsc/petsc-3.18.3/include -I/home/matheus/petsc/petsc-3.18.3/arch-linux2-c-opt/include -I/home/matheus/mpich-install/include -I/usr/include/hdf5/serial -I/usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5.so -I/usr/lib/x86_64-linux-gnu/libcrypto.so -I/usr/lib/x86_64-linux-gnu/libcurl.so -I/usr/lib/x86_64-linux-gnu/libpthread.a -I/usr/lib/x86_64-linux-gnu/libsz.so -I/usr/lib/x86_64-linux-gnu/libz.so -I/usr/lib/x86_64-linux-gnu/libdl.a -I/usr/lib/x86_64-linux-gnu/libm.so -I/home/matheus/Matheus/Modelos-Turbulencia/functs -I/home/matheus/Matheus/Modelos-Turbulencia/inputs -isystem /usr/local/include/eigen3 -O3 -DNDEBUG   -w -o CMakeFiles/Fluid_library.dir/functs/F_Paraview.cpp.o -c /home/matheus/Matheus/Modelos-Turbulencia/functs/F_Paraview.cpp",
+  "file": "/home/matheus/Matheus/Modelos-Turbulencia/functs/F_Paraview.cpp"
+},
+{
+  "directory": "/home/matheus/Matheus/Modelos-Turbulencia/build",
+  "command": "/usr/bin/c++ -D__INSDIR__=\"\" -I/home/matheus/Matheus/Modelos-Turbulencia/include -I/home/matheus/petsc/petsc-3.18.3/include -I/home/matheus/petsc/petsc-3.18.3/arch-linux2-c-opt/include -I/home/matheus/mpich-install/include -I/usr/include/hdf5/serial -I/usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5.so -I/usr/lib/x86_64-linux-gnu/libcrypto.so -I/usr/lib/x86_64-linux-gnu/libcurl.so -I/usr/lib/x86_64-linux-gnu/libpthread.a -I/usr/lib/x86_64-linux-gnu/libsz.so -I/usr/lib/x86_64-linux-gnu/libz.so -I/usr/lib/x86_64-linux-gnu/libdl.a -I/usr/lib/x86_64-linux-gnu/libm.so -I/home/matheus/Matheus/Modelos-Turbulencia/functs -I/home/matheus/Matheus/Modelos-Turbulencia/inputs -isystem /usr/local/include/eigen3 -O3 -DNDEBUG   -w -o CMakeFiles/Fluid_library.dir/functs/F_Prog.cpp.o -c /home/matheus/Matheus/Modelos-Turbulencia/functs/F_Prog.cpp",
+  "file": "/home/matheus/Matheus/Modelos-Turbulencia/functs/F_Prog.cpp"
+},
+{
+  "directory": "/home/matheus/Matheus/Modelos-Turbulencia/build",
+  "command": "/usr/bin/c++ -D__INSDIR__=\"\" -I/home/matheus/Matheus/Modelos-Turbulencia/include -I/home/matheus/petsc/petsc-3.18.3/include -I/home/matheus/petsc/petsc-3.18.3/arch-linux2-c-opt/include -I/home/matheus/mpich-install/include -I/usr/include/hdf5/serial -I/usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5.so -I/usr/lib/x86_64-linux-gnu/libcrypto.so -I/usr/lib/x86_64-linux-gnu/libcurl.so -I/usr/lib/x86_64-linux-gnu/libpthread.a -I/usr/lib/x86_64-linux-gnu/libsz.so -I/usr/lib/x86_64-linux-gnu/libz.so -I/usr/lib/x86_64-linux-gnu/libdl.a -I/usr/lib/x86_64-linux-gnu/libm.so -I/home/matheus/Matheus/Modelos-Turbulencia/functs -I/home/matheus/Matheus/Modelos-Turbulencia/inputs -isystem /usr/local/include/eigen3 -O3 -DNDEBUG   -w -o CMakeFiles/Fluid_library.dir/inputs/Exemplo1.cpp.o -c /home/matheus/Matheus/Modelos-Turbulencia/inputs/Exemplo1.cpp",
+  "file": "/home/matheus/Matheus/Modelos-Turbulencia/inputs/Exemplo1.cpp"
+},
+{
+  "directory": "/home/matheus/Matheus/Modelos-Turbulencia/build",
+  "command": "/usr/bin/c++ -D__INSDIR__=\"\" -I/home/matheus/Matheus/Modelos-Turbulencia/include -I/home/matheus/petsc/petsc-3.18.3/include -I/home/matheus/petsc/petsc-3.18.3/arch-linux2-c-opt/include -I/home/matheus/mpich-install/include -I/usr/include/hdf5/serial -I/usr/lib/x86_64-linux-gnu/hdf5/serial/libhdf5.so -I/usr/lib/x86_64-linux-gnu/libcrypto.so -I/usr/lib/x86_64-linux-gnu/libcurl.so -I/usr/lib/x86_64-linux-gnu/libpthread.a -I/usr/lib/x86_64-linux-gnu/libsz.so -I/usr/lib/x86_64-linux-gnu/libz.so -I/usr/lib/x86_64-linux-gnu/libdl.a -I/usr/lib/x86_64-linux-gnu/libm.so -I/home/matheus/Matheus/Modelos-Turbulencia/functs -I/home/matheus/Matheus/Modelos-Turbulencia/inputs -isystem /usr/local/include/eigen3 -O3 -DNDEBUG   -w -o CMakeFiles/f.dir/main.cpp.o -c /home/matheus/Matheus/Modelos-Turbulencia/main.cpp",
+  "file": "/home/matheus/Matheus/Modelos-Turbulencia/main.cpp"
+}
+]

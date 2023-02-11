@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFluid_library.a CMakeFiles/Fluid_library.dir/functs/F_Calculate.cpp.o CMakeFiles/Fluid_library.dir/functs/F_Gmsh.cpp.o CMakeFiles/Fluid_library.dir/functs/F_PETSc.cpp.o CMakeFiles/Fluid_library.dir/functs/F_Paraview.cpp.o CMakeFiles/Fluid_library.dir/functs/F_Prog.cpp.o CMakeFiles/Fluid_library.dir/inputs/Exemplo1.cpp.o
+/usr/bin/ranlib libFluid_library.a
